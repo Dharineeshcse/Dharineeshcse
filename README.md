@@ -1,7 +1,8 @@
 
 ## Languages & Technologies:
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,bootstrap,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,bootstrap,mysql,spring)](https://skillicons.dev)
 ## Tools:
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,notion)](https://skillicons.dev)
 
 <br>
 
