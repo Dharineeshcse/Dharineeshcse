@@ -6,7 +6,7 @@
 
 <br>
 ##LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Dharineeshcse?theme=light&font=Roboto%20Flex&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Dharineeshcse?theme=light&font=Roboto%20Flex&ext=heatmap)
 
 ---
 ### :fire: My Stats :
