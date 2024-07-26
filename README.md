@@ -1,4 +1,4 @@
-#Hello! I'm Dharineesh
+# Hello! I'm Dharineesh
 <br/>
 I’m a passionate Computer Science Engineering student from Tamil Nadu, dedicated to self-learning and continuous growth in the field of technology                                               
 - 🌱 I’m currently learning DSA
