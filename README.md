@@ -7,7 +7,7 @@
 <br>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Dharineeshcse?theme=dark&font=Roboto%20Flex&ext=context)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dharineeshcse?theme=dark&font=Roboto%20Flex&ext=Contest)
 
 ---
 ### :fire: My Stats :
