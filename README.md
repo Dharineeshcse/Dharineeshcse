@@ -7,7 +7,7 @@ I’m a passionate Computer Science Engineering student from Tamil Nadu, dedicat
 - 💬 Ask me about Tech
 - 📫 Reach Me VIA:
   
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />] (https://www.linkedin.com/in/dharineesh22/)
+ [!<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />] (https://www.linkedin.com/in/dharineesh22/)
 ## Languages & Technologies:
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,bootstrap,mysql,spring)](https://skillicons.dev)
 ## Tools:
