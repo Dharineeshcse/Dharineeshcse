@@ -10,7 +10,7 @@ I’m a passionate Computer Science Engineering student from Tamil Nadu, dedicat
 ## Tools & IDE I use
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,notion)](https://skillicons.dev)
 ## OS && Cloud Tech
-[![My Skills](https://skillicons.dev/icons?i=aws,openstack, windows, linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,openstack,windows,linux)](https://skillicons.dev)
 
 
 
