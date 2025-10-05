@@ -4,7 +4,7 @@ I’m a passionate Computer Science Engineering student from Tamil Nadu, dedicat
 
 - 💬 Ask me about Tech
 - 📫 Reach Me VIA
- <br/>  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dharineesh22/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dharineesh22@gmail.com)
+ <br/>  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dharineesh22/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dharineesh.tech@gmail.com)
 ## I Code in
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,react,tailwind,styledcomponents,mysql)](https://skillicons.dev)
 ## Tools & IDE I use
