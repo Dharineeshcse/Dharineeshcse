@@ -8,9 +8,11 @@ I’m a passionate Computer Science Engineering student from Tamil Nadu, dedicat
 ## I Code in
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,go,mysql)](https://skillicons.dev)
 ## Tools & IDE I use
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,notion)](https://skillicons.dev)
 ## OS & Cloud Tech
-[![My Skills](https://skillicons.dev/icons?i=aws,openstack,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,openstack,gcp,windows,linux)](https://skillicons.dev)
+## Devops Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana,jenkins,prometheus,terraform,)](https://skillicons.dev)
 
 
 
